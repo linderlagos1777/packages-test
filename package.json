@@ -1,0 +1,15 @@
+{
+  "name": "@linderlagos1777/packages-test",
+  "version": "1.0.0",
+  "description": "Demo npm packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "repository":"https://github.com/linderlagos1777/packages-test.git",
+  "author": "",
+  "license": "ISC"
+}
